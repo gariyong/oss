@@ -1,9 +1,13 @@
-Remove-Item -Recurse -Force ".gitignore"
-
-@"
 [Ll]ibrary/
 [Tt]emp/
 [Ll]ogs/
 UserSettings/
+
 .vscode/
-"@ | Out-File -Encoding UTF8 ".gitignore"
+*.slnx
+*.csproj
+
+.DS_Store
+Thumbs.db
+
+Packages/com.unity.*
