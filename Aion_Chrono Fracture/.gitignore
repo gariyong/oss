@@ -1,0 +1,9 @@
+Remove-Item -Recurse -Force ".gitignore"
+
+@"
+[Ll]ibrary/
+[Tt]emp/
+[Ll]ogs/
+UserSettings/
+.vscode/
+"@ | Out-File -Encoding UTF8 ".gitignore"
