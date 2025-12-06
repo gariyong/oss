@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\happy\\OneDrive\\\uBB38\uC11C\\GitHub\\oss\\Aion_Chrono Fracture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9DB673-0BB9-8FD4-EB86-F2FF65C4ADAF}|Assembly-CSharp.csproj|c:\\users\\happy\\onedrive\\\uBB38\uC11C\\github\\oss\\aion_chrono fracture\\assets\\script\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9DB673-0BB9-8FD4-EB86-F2FF65C4ADAF}|Assembly-CSharp.csproj|solutionrelative:assets\\script\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\happy\\OneDrive\\\uBB38\uC11C\\GitHub\\oss\\Aion_Chrono Fracture\\Assets\\Script\\Test.cs",
+              "RelativeDocumentMoniker": "Assets\\Script\\Test.cs",
+              "ToolTip": "C:\\Users\\happy\\OneDrive\\\uBB38\uC11C\\GitHub\\oss\\Aion_Chrono Fracture\\Assets\\Script\\Test.cs",
+              "RelativeToolTip": "Assets\\Script\\Test.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T10:09:05.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
